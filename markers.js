@@ -1,4 +1,4 @@
-export default  markers = [
+[
     {
         "agency": "jinane sais",
         "phone": "",
